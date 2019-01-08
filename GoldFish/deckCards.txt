@@ -1,0 +1,3 @@
+0,,,CardImages/card0.jpg
+1,heart,red,CardImages/card1.jpg
+2,heart,red,CardImages/card2.png
